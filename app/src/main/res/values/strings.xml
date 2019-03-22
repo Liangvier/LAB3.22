@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">AIR controal</string>
+    <!--空调-->
+    <string name="index_infrared">AIRcontroal</string>
+    <string name="index_tv">TVcontrol</string>
+    <string name="index_tvBox">boxcontrol</string>
+    <string name="ari_power">open</string>
+    <string name="ari_up">t+</string>
+    <string name="ari_down">t-</string>
+    <string name="ari_mode">model</string>
+    <string name="air_wind_count">Air volume</string>
+    <string name="ari_direction">wind drection</string>
+    <string name="ari_aotu">Ventilation</string>
+
+    <string name="air">air</string>
+    <string name="str_air">AIRcondition</string>
+    <string name="air_power">open/close</string>
+    <string name="air_tempadd">t+</string>
+    <string name="air_tempsub">t-</string>
+    <string name="air_mode">model</string>
+    <string name="air_wind_dir">sweepwind:</string>
+    <string name="air_wind_auto_dir">nomol</string>
+    <string name="air_wind_auto_energy">Ventilation</string>
+    <string name="air_mode_val">model:</string>
+    <string name="air_temp_val">temperature:</string>
+    <string name="air_wind_dir_val">winddeaction:</string>
+    <string name="air_wind_val">volume:</string>
+    <string name="air_wind_count_value_1">auto</string>
+    <string name="air_wind_count_value_2">low</string>
+    <string name="air_wind_count_value_3">mid</string>
+    <string name="air_wind_count_value_4">high</string>
+    <string name="air_wind_dir_value_1">Auto</string>
+    <string name="air_wind_dir_value_2">updown</string>
+    <string name="air_wind_dir_value_3">left/right</string>
+    <string name="air_wind_auto_dir_value_1">open</string>
+    <string name="air_wind_auto_dir_value_0">close</string>
+    <string name="air_mode_value_1">Atuo</string>
+    <string name="air_mode_value_2">cold</string>
+    <string name="air_mode_value_3">humidification</string>
+    <string name="air_mode_value_4">Air supply</string>
+    <string name="air_mode_value_5">Heating</string>
+    <string name="d">℃</string>
+    <string name="degree"><![CDATA[℃]]></string>
+    <string name="air_power_off">CLOSE</string>
+
+
+    <!-- TV -->
+    <string name="tv">tv</string>
+    <string name="str_tv">电视</string>
+    <string name="tv_power">开关</string>
+    <string name="tv_mute">静音</string>
+    <string name="tv_key0">0</string>
+    <string name="tv_key1">1</string>
+    <string name="tv_key2">2</string>
+    <string name="tv_key3">3</string>
+    <string name="tv_key4">4</string>
+    <string name="tv_key5">5</string>
+    <string name="tv_key6">6</string>
+    <string name="tv_key7">7</string>
+    <string name="tv_key8">8</string>
+    <string name="tv_key9">9</string>
+    <string name="tv_key10">-/&#8212;</string>
+    <string name="tv_menu">菜单</string>
+    <string name="tv_chadd">频道+</string>
+    <string name="tv_chsub">频道-</string>
+    <string name="tv_voladd">音量+</string>
+    <string name="tv_volsub">音量-</string>
+    <string name="tv_ok">确定</string>
+    <string name="tv_av">AV/TV</string>
+    <string name="tv_back">返回</string>
+    <string name="tv_show">按键显示</string>
+    <string name="tv_quit">退出</string>
+    <string name="tv_screen">屏显</string>
+    <string name="up">上</string>
+    <string name="down">下</string>
+    <string name="left">左</string>
+    <string name="right">右</string>
+
+
+    <!-- 机顶盒 -->
+    <string name="pjt">pjt</string>
+    <string name="str_pjt">投影仪</string>
+    <string name="pjt_power_on">开机</string>
+    <string name="pjt_power_off">关机</string>
+    <string name="pjt_computer">电脑</string>
+    <string name="pjt_video">视频</string>
+    <string name="pjt_sign">信号源</string>
+    <string name="pjt_zoomadd">变焦+</string>
+    <string name="pjt_zoomsub">变焦-</string>
+    <string name="pjt_pictureadd">画面+</string>
+    <string name="pjt_picturesub">画面-</string>
+    <string name="pjt_brightness">亮度</string>
+    <string name="pjt_auto">自动</string>
+    <string name="pjt_exit">退出</string>
+    <string name="pjt_menu">菜单</string>
+    <string name="pjt_pause">暂停</string>
+    <string name="pjt_mute">静音</string>
+    <string name="pjt_voladd">音量+</string>
+    <string name="pjt_volsub">音量-</string>
+    <string name="pjt_up">上</string>
+    <string name="pjt_down">下</string>
+    <string name="pjt_left">左</string>
+    <string name="pjt_right">右</string>
+    <string name="pjt_ok">确定</string>
+
+</resources>
